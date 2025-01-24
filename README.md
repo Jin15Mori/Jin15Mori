@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning ,SQL, Power BI**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Oracle Apps ERP and Data Science**
 
 - 📫 How to reach me **ashutoshbanasure@gmail.com**
 
